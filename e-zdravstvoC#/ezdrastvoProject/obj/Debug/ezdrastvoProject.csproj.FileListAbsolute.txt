@@ -1,0 +1,574 @@
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\ezdrastvoProject.dll.config
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\ezdrastvoProject.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\ezdrastvoProject.pdb
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csc.exe
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csc.exe.config
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csc.rsp
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csi.exe
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csi.exe.config
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\csi.rsp
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Console.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\vbc.exe
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\vbc.exe.config
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\vbc.rsp
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Antlr3.Runtime.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\EntityFramework.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Newtonsoft.Json.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Owin.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Helpers.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Mvc.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Optimization.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Razor.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\WebGrease.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Helpers.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Mvc.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Optimization.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.Razor.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Newtonsoft.Json.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\EntityFramework.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.csprojAssemblyReference.cache
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CopyComplete
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.dll
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.pdb
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.initial.resources
+C:\Users\Ivo\source\repos\ezdrastvoProject\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.GenerateResource.cache
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll.config
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.pdb
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe.config
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.rsp
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe.config
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.rsp
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Console.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe.config
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.rsp
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Owin.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\WebGrease.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.initial.resources
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.GenerateResource.cache
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CopyComplete
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.dll
+C:\Users\Ivo\Desktop\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.pdb
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll.config
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.pdb
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe.config
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.rsp
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe.config
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.rsp
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Console.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe.config
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.rsp
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Owin.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\WebGrease.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.initial.resources
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.GenerateResource.cache
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CopyComplete
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.pdb
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Twilio.dll
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\bin\Twilio.xml
+C:\Users\Ivo\Desktop\ivo\bezbednost\mhm\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.Emailprop.resources
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll.config
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.pdb
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Owin.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Twilio.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\WebGrease.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Twilio.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.initial.resources
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.Emailprop.resources
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CopyComplete
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.dll
+C:\Users\User\Desktop\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.pdb
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll.config
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\ezdrastvoProject.pdb
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.exe.config
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csc.rsp
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.exe.config
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\csi.rsp
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.AppContext.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Collections.Immutable.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Console.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Http.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Net.Sockets.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.ValueTuple.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.exe.config
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\vbc.rsp
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\roslyn\VBCSCompiler.exe.config
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Logging.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Web.Infrastructure.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Owin.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Twilio.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\WebGrease.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\EntityFramework.SqlServer.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.IdentityModel.Tokens.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Helpers.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Mvc.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Optimization.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.Razor.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Deployment.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\System.Web.WebPages.Razor.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Newtonsoft.Json.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Twilio.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Antlr3.Runtime.pdb
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Google.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.AssemblyReference.cache
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.initial.resources
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.Migrations.Emailprop.resources
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.GenerateResource.cache
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CoreCompileInputs.cache
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.csproj.CopyComplete
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.dll
+D:\bojana sm5\proekt\aha proekt copy\ezdrastvoProject\obj\Debug\ezdrastvoProject.pdb
